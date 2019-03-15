@@ -1,0 +1,18 @@
+{
+  "name": "quick-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nodejs",
+    "unit-test"
+  ],
+  "author": "sorab",
+  "license": "ISC",
+  "devDependencies": {    
+    "mocha": "^6.0.2"
+  }
+}
