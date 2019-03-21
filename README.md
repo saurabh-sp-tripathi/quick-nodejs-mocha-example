@@ -1,2 +1,5 @@
 # quick-nodejs-mocha-example
-A quick start quide to Mocha unit test.
+A quick start guide to 
+- Mocha unit test
+- ESLint
+
